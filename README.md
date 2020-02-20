@@ -6,7 +6,7 @@
 
 * Create a class called ChallengeOne
 * Declare three variables at the top of the class
-  * An Integer, String, and Account. Do not initialize them yet.
+  * An Integer, String, and Account. Do not assign them values to them yet.
 * Declare two methods with the following signatures:
   * public void SetValues(){}
   * public void GetValues(){}
